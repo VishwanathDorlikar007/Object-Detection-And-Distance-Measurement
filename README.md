@@ -10,3 +10,6 @@
 **Confidence scores**: These represent the model's certainty for each detection, ranging from 0 (low confidence) to 1 (high confidence).
 
 **Thresholding**: We set a confidence threshold (e.g., 0.5) to filter out detections with low confidence, improving the accuracy of our results.
+
+![image](https://github.com/user-attachments/assets/d5986826-3434-42f6-8421-0586a8e4e0ab)
+
