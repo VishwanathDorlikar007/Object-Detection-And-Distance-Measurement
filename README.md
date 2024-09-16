@@ -1,4 +1,5 @@
 **Methodology**
+
 **OpenCV Setup**: We initiated by setting up OpenCV to access the camera and capture video frames.
 
 **Model Loading:** We loaded the pre-trained object detection model which is SSD MobileNet v3 Large Coco 2020 into memory.
